@@ -1,10 +1,12 @@
 ---
-title: Peaje Lurin Api
-emoji: 🚀
-colorFrom: red
-colorTo: yellow
-sdk: docker
-pinned: false
+title: "Peaje Lurín API"
+emoji: "🚗"
+colorFrom: "blue"
+colorTo: "purple"
+sdk: "docker"
+app_port: 7860
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# API de Reconocimiento de Placas
+
+Backend para el sistema de peaje. Procesa imágenes y reconoce placas vehiculares usando FastAPI y EasyOCR.
